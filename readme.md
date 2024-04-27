@@ -4,7 +4,7 @@
 
 
 [PHOTOS](https://github.com/MnprtBains/Bains_GPS_Farm/blob/main/PHOTOS/p.md)
-[CONTACTS](https://github.com/MnprtBains/Bains_GPS_Farm/blob/main/CONTACT/c.md)
+[CONTACT](https://github.com/MnprtBains/Bains_GPS_Farm/blob/main/CONTACT/c.md)
 
 ## Mission :
 1. 100% organic farming in order to get chemical free vegetables, fruits and cereals.
