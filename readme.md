@@ -2,6 +2,7 @@
 ### Village Rasulpur, 
 #### P.O. Sarhala Kalan, Distt. Hoshiarpur, Punjab 146108.
 
+"../https://github.com/MnprtBains/Bains_GPS_Farm/blob/main/P%20(1).jpg"
 
 [PHOTOS](https://github.com/MnprtBains/Bains_GPS_Farm/blob/main/PHOTOS/p.md)
 [CONTACT](https://github.com/MnprtBains/Bains_GPS_Farm/blob/main/CONTACT/c.md)
