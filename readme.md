@@ -8,7 +8,7 @@
 
 ## Mission :
 1. 100% organic farming in order to get chemical free vegetables, fruits and cereals.
-2. Promotion and developing love for the nature by creating an ambient environment for encouraging to remain connected to the roots.
+2. Promotion and developing love for the nature by creating an ambient environment for encouraging others to remain connected to the roots.
 
 ## Managed and mantained by:
 S. Paramjit Singh Bains
