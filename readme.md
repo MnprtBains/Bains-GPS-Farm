@@ -3,7 +3,7 @@
 #### P.O. Sarhala Kalan, Distt. Hoshiarpur, Punjab 146108.
 
 [PHOTOS](https://github.com/MnprtBains/Bains_GPS_Farm/blob/main/PHOTOS/p.md)
-[CONTACT](https://github.com/MnprtBains/Bains_GPS_Farm/blob/main/CONTACT/c.md)
+[CONTACTS](https://github.com/MnprtBains/Bains_GPS_Farm/blob/main/CONTACT/c.md)
 
 ## Mission :
 1. 100% organic farming in order to get chemical free vegetables, fruits and cereals.
